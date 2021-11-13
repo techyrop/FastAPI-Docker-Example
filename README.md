@@ -1,0 +1,1 @@
+This is a project to learn how to use FastAPI and dockerize it by creating dockerfile and docker compose files.
